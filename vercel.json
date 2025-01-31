@@ -29,6 +29,6 @@
         "DB_HOST": "w85oy.h.filess.io",
         "DB_PORT": "3307",
         "DB_DATABASE": "ChirperInertia_seriesnoon",
-        "DB_USERNAME": "DB_USERNAME=ChirperInertia_seriesnoon"
+        "DB_USERNAME": "ChirperInertia_seriesnoon"
     }
 }
